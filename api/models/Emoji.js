@@ -10,7 +10,7 @@ module.exports = {
   attributes: {
 
     text: {
-      type: 'striing'
+      type: 'string'
     }
 
   }
